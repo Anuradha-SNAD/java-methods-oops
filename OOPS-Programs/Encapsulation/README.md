@@ -1,3 +1,3 @@
-# Java OOP Concepts
+# Java OOP Encaption Concepts
 
-This repository contains Core Java **OOP concepts** with practical examples for learning and practice.
+This repository contains Core Java **Encapsulation** with practical examples for learning and practice.
